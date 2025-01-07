@@ -1,0 +1,83 @@
+{
+  "001": {
+    "name": "Card1",
+    "rarity": "gold",
+    "form": "final",
+    "atk": [4, 7, 10, 13, 16],
+    "def": [6, 9, 12, 15, 18]
+  },
+
+"002": {
+    "name": "Card2",
+    "rarity": "bronze",
+    "form": "combo",
+    "atk": [4, 5, 6, 7, 8],
+    "def": [1, 2, 3, 4, 5]
+  },
+
+"003": {
+    "name": "Card3",
+    "rarity": "silver",
+    "form": "combo",
+    "atk": [4, 6, 8, 10, 12],
+    "def": [3, 5, 7, 9, 11]
+  },
+
+"004": {
+    "name": "Card4",
+    "rarity": "gold",
+    "form": "final",
+    "atk": [5, 8, 11, 14, 17],
+    "def": [5, 8, 11, 14, 17]
+  },
+
+"005": {
+    "name": "Card5",
+    "rarity": "silver",
+    "form": "combo",
+    "atk": [2, 4, 6, 8, 10],
+    "def": [2, 4, 6, 8, 10]
+  },
+
+"006": {
+    "name": "Card6",
+    "rarity": "silver",
+    "form": "combo",
+    "atk": [4, 6, 8, 10, 12],
+    "def": [3, 5, 7, 9, 11]
+  },
+
+"007": {
+    "name": "Card7",
+    "rarity": "gold",
+    "form": "final",
+    "atk": [9, 12, 15, 18, 21],
+    "def": [0, 3, 6, 9, 12]
+  },
+
+"008": {
+    "name": "Card8",
+    "rarity": "gold",
+    "form": "final",
+    "atk": [6, 10, 14, 18, 22],
+    "def": [7, 11, 15, 19, 23]
+  },
+
+"009": {
+    "name": "Card9",
+    "rarity": "bronze",
+    "form": "combo",
+    "atk": [0, 1, 2, 3, 4],
+    "def": [1, 2, 3, 4, 5]
+  },
+
+"010": {
+    "name": "Card10",
+    "rarity": "silver",
+    "form": "combo",
+    "atk": [5, 7, 9, 11, 13],
+    "def": [1, 3, 5, 7, 9]
+  }
+
+
+}

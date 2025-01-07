@@ -1,0 +1,32 @@
+										        GAME INFO
+											
+											
+===================================================== Game rules =========================================================
+
+-- Player and Foe have a deck of cards
+-- Player and Foe have health
+-- Player and Foe select a card
+-- The attack of the Player goes against the def of the Foe, if the Foe's def exceeds the zero, damage is applied based on the difference between the atk and def
+-- Same but the other way around
+-- Battle ends when one of the two players' healthbar reaches zero
+
+
+
+
+============================================ Edit the Json Database File ==========================================
+
+Each card has a unique ID starting from "001".
+The Attack and Defense key holds a list of the attacks based on the level the card is at.
+Ex: "atk": [2, 4, 6, 8, 10] -> card at level 1 has attack of 2, at level 2 has attack of 4, etc...
+            ^
+			|
+	   level index
+	   
+Make sure the Json file has the right formatting.
+Copy the file into this site for Json validation:
+https://jsonformatter.curiousconcept.com
+
+
+====================================================== License ===================================================
+
+-- YOU CAN USE THIS CARDS ENGINE THE WAY YOU WANT, CREDTIS WOULD BE APPRECIATED

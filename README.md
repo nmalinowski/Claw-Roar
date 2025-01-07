@@ -1,3 +1,3 @@
 # Cretaceous-Cooperation
 
-A web-based board game I am creating with my son Jordyn.
+A web-based card game I am creating with my son Jordyn.
